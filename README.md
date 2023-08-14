@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_423_752/0/1626753867110?e=1697673600&v=beta&t=o7E0XB92iIv5rPvO-ZW-EKQ5GMM-d5WHF1GddEtjgj8)
 <h1 align="center">Hi 👋, I'm Pamul Yadav</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamul-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="pamul-yadav" /> </p>
 
