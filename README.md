@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamul-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="pamul-yadav" /> </p>
 
-- 🌱 I’m currently learning **Skills used in Data analysis.**
+- 🌱 I’m currently learning **Skills, used in Data analysis.**
 
-- 💬 Ask me about **Learnings And Courses**
+- 💬 Ask me about **my Learnings And Courses**
 
 - 📫 How to reach me **pamulyadav123@gmail.com**
 
-- ⚡ Fun fact **I thik, I am clumsy now as I am still learning.**
+- ⚡ Fun fact **I think, I am clumsy now as I am still learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
