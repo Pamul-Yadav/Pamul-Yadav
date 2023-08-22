@@ -14,10 +14,10 @@
 - ⚡ Fun fact **I think, I am clumsy now as I am still learning.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamul-yadav&show_icons=true&locale=en&layout=compact" alt="pamul-yadav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamul-yadav&show_icons=true&locale=en&layout=compact" alt="pamul-yadav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pamul-yadav&show_icons=true&locale=en" alt="pamul-yadav" /></p>
 
